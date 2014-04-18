@@ -7,6 +7,14 @@ title: Projects
 
 Recent Projects:
 
+* Doora
+
+  Just another file sharing service, simple and fast.
+
+  <http://lab.wong2.me/doora/>
+
+  <https://github.com/wong2/doora>
+
 * Atom-Flake8
 
   Atom Package for flake8 (a wrapper around pyflakes and pep8)
