@@ -7,6 +7,12 @@ title: Projects
 
 Recent Projects:
 
+* 北京实时公交
+
+  实时查询公交到站时间的微信公众号
+
+  <https://github.com/wong2/beijing_bus>
+
 * Doora
 
   Just another file sharing service, simple and fast.
